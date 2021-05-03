@@ -1,0 +1,18 @@
+Copyright (c) 2021 thehardwareguy
+
+RAPTOR 2 IS AN OPEN SOURCE PROJECT.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+these files, to deal without restriction, including without limitation the rights to
+use, copy, modify, merge, publish and redistribute, subject to the following condition:
+
+1) You always credit me as the original creator, in the following manner:
+
+Raptor 2 - Designed by 'thehardwareguy'
+YouTube: https://www.youtube.com/channel/thehardwareguy
+Website: https://www.thehardwareguy.co.uk/raptor2
+
+THE PROJECT FILES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+Have fun!
+-Gareth
