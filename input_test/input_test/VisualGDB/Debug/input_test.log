@@ -1,6 +1,0 @@
-﻿  main.c
-  my_functions.c
-  Linking ../VisualGDB/Debug/input_test...
-  ------------------- Memory utilization report -------------------
-  Used FLASH: 25KB out of 512KB (4%) [+8]
-  Used SRAM: 420 bytes out of 128KB (0%)
